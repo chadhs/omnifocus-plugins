@@ -1,0 +1,19 @@
+{
+  "name": "Clear Dates",
+  "author": "Chad Stovern (converted from Dan Byler's AppleScript)",
+  "authorURL": "https://github.com/chadhs",
+  "identifier": "com.chadhs.clear-dates",
+  "version": "1.0.0",
+  "description": "Clear the defer (start) and due dates of selected items.",
+  "defaultLocale": "en",
+  "libraries": [],
+  "actions": [
+    {
+      "identifier": "clearDates",
+      "name": "Clear Dates",
+      "paletteLabel": "Clear Dates",
+      "image": "xmark.circle",
+      "script": "clearDates.js"
+    }
+  ]
+}
