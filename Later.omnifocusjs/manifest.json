@@ -7,8 +7,8 @@
   "description": "Defer selected tasks using natural language input. Supports relative dates, absolute dates, weekdays, and dual date input.",
   "defaultLocale": "en",
   "libraries": [
-    "DateParser.js",
-    "Preferences.js"
+    { "identifier": "dateParser", "script": "DateParser.js" },
+    { "identifier": "preferences", "script": "Preferences.js" }
   ],
   "actions": [
     {
