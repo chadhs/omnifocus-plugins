@@ -82,4 +82,4 @@ The plugins directory is typically:
 
 ## License
 
-MIT License - see individual plugin directories for details.
+BSD 3-Clause License
